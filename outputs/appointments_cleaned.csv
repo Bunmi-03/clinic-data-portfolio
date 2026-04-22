@@ -1,0 +1,501 @@
+appointment_id,patient_id,appointment_date,appointment_type,therapist,attended,record_status
+APT0001,P0013,2024-10-15,filling,Dr. Patel,False,Complete
+APT0002,P0053,2024-09-20,check-up,,False,Incomplete
+APT0003,,2024-02-05,extraction,Dr. Patel,True,Incomplete
+APT0004,P0367,2024-09-09,cleaning,Dr. Patel,,Incomplete
+APT0005,P0004,2024-10-22,extraction,Dr. Williams,True,Complete
+APT0006,P0111,2024-05-09,filling,Dr. Ahmed,False,Complete
+APT0007,P0184,2024-11-25,cleaning,,True,Incomplete
+APT0008,P0374,2024-06-28,check-up,Dr. Williams,False,Complete
+APT0009,P0322,2024-08-28,cleaning,,False,Incomplete
+APT0010,P0024,2024-09-14,extraction,Dr. Nguyen,False,Complete
+APT0011,P0052,2024-05-27,filling,Dr. Williams,True,Complete
+APT0012,P0182,2024-03-22,filling,Dr. Ahmed,True,Complete
+APT0013,P0126,2024-03-04,consultation,Dr. Williams,True,Complete
+APT0014,P0328,2024-09-25,extraction,Dr. Nguyen,True,Complete
+APT0015,P0017,2024-11-09,filling,Dr. Williams,True,Complete
+APT0016,P0291,2024-12-07,filling,Dr. Patel,,Incomplete
+APT0017,P0330,2024-06-27,check-up,Dr. Nguyen,True,Complete
+APT0018,P0288,2024-07-28,filling,,False,Incomplete
+APT0019,P0205,2024-05-20,extraction,Dr. Patel,,Incomplete
+APT0020,P0025,2024-12-01,check-up,Dr. Patel,True,Complete
+APT0021,P0217,2024-08-20,check-up,Dr. Williams,False,Complete
+APT0022,P0240,2024-07-24,filling,,True,Incomplete
+APT0023,P0059,2024-09-22,filling,Dr. Nguyen,False,Complete
+APT0024,P0081,2024-06-25,check-up,Dr. Nguyen,True,Complete
+APT0025,P0055,2024-12-05,filling,,False,Incomplete
+APT0026,P0391,2024-03-03,consultation,Dr. Ahmed,True,Complete
+APT0027,P0058,2024-12-27,cleaning,Dr. Nguyen,False,Complete
+APT0028,P0291,2024-02-21,check-up,Dr. Ahmed,,Incomplete
+APT0029,P0390,2024-07-26,check-up,Dr. Patel,,Incomplete
+APT0030,P0085,2024-04-12,consultation,,False,Incomplete
+APT0031,P0277,2024-10-21,extraction,Dr. Nguyen,False,Complete
+APT0032,P0333,2024-05-25,consultation,,,Incomplete
+APT0033,P0116,2024-01-25,filling,Dr. Ahmed,False,Complete
+APT0034,P0004,2024-01-28,check-up,Dr. Patel,False,Complete
+APT0035,P0170,2024-01-28,consultation,Dr. Patel,True,Complete
+APT0036,P0110,2024-07-29,check-up,,,Incomplete
+APT0037,P0243,2024-11-10,cleaning,Dr. Patel,False,Complete
+APT0038,P0221,2024-05-17,cleaning,Dr. Williams,,Incomplete
+APT0039,P0028,2024-09-19,check-up,Dr. Ahmed,False,Complete
+APT0040,P0056,2024-04-06,extraction,Dr. Patel,,Incomplete
+APT0041,P0094,2024-04-18,consultation,Dr. Patel,False,Complete
+APT0042,P0282,2024-02-08,check-up,,True,Incomplete
+APT0043,P0386,2024-11-26,extraction,Dr. Patel,False,Complete
+APT0044,P0110,2024-12-02,cleaning,Dr. Ahmed,True,Complete
+APT0045,P0200,2024-04-12,consultation,Dr. Nguyen,False,Complete
+APT0046,P0375,2024-11-01,consultation,Dr. Patel,False,Complete
+APT0047,P0030,2024-08-13,check-up,Dr. Nguyen,True,Complete
+APT0048,P0245,2024-07-14,consultation,Dr. Patel,True,Complete
+APT0049,P0042,2024-11-27,extraction,Dr. Ahmed,False,Complete
+APT0050,P0121,2024-06-05,check-up,,False,Incomplete
+APT0051,P0021,2024-08-29,check-up,Dr. Williams,True,Complete
+APT0052,P0105,2024-09-17,filling,Dr. Patel,True,Complete
+APT0053,P0344,2024-09-08,filling,Dr. Williams,True,Complete
+APT0054,P0038,2024-01-04,consultation,,False,Incomplete
+APT0055,P0110,2024-07-16,filling,Dr. Patel,True,Complete
+APT0056,P0126,2024-05-24,filling,Dr. Patel,,Incomplete
+APT0057,P0361,2024-04-27,consultation,Dr. Ahmed,True,Complete
+APT0058,P0054,2024-01-01,check-up,Dr. Nguyen,False,Complete
+APT0059,P0381,2024-08-03,check-up,Dr. Nguyen,True,Complete
+APT0060,P0368,2024-05-13,extraction,Dr. Nguyen,,Incomplete
+APT0061,P0027,2024-02-05,cleaning,Dr. Nguyen,True,Complete
+APT0062,,2024-10-27,check-up,Dr. Nguyen,True,Incomplete
+APT0063,P0283,2024-10-02,cleaning,,True,Incomplete
+APT0064,P0354,2024-12-18,check-up,,True,Incomplete
+APT0065,P0299,2024-08-02,check-up,Dr. Williams,True,Complete
+APT0066,,2024-05-21,check-up,Dr. Nguyen,False,Incomplete
+APT0067,P0342,2024-02-09,cleaning,,False,Incomplete
+APT0068,P0384,2024-03-01,extraction,Dr. Patel,True,Complete
+APT0069,P0013,2024-03-10,filling,Dr. Williams,False,Complete
+APT0070,P0360,2024-02-11,cleaning,Dr. Ahmed,,Incomplete
+APT0071,P0236,2024-05-16,filling,Dr. Patel,False,Complete
+APT0072,,2024-03-15,cleaning,Dr. Nguyen,True,Incomplete
+APT0073,P0396,2024-04-18,cleaning,,False,Incomplete
+APT0074,P0275,2024-05-08,check-up,Dr. Ahmed,True,Complete
+APT0075,P0136,2024-01-15,check-up,,False,Incomplete
+APT0076,P0161,2024-06-18,consultation,Dr. Ahmed,False,Complete
+APT0077,P0098,2024-04-09,check-up,Dr. Williams,True,Complete
+APT0078,P0276,2024-09-24,extraction,Dr. Nguyen,False,Complete
+APT0079,P0341,2024-12-24,filling,,True,Incomplete
+APT0080,P0064,2024-10-07,filling,,True,Incomplete
+APT0081,P0168,2024-06-05,filling,,True,Incomplete
+APT0082,P0341,2024-01-13,cleaning,Dr. Patel,True,Complete
+APT0083,P0001,2024-04-28,filling,Dr. Patel,False,Complete
+APT0084,P0311,2024-09-12,filling,Dr. Williams,,Incomplete
+APT0085,P0110,2024-07-17,consultation,Dr. Patel,False,Complete
+APT0086,P0340,2024-09-03,filling,Dr. Ahmed,False,Complete
+APT0087,P0116,2024-11-09,extraction,Dr. Patel,True,Complete
+APT0088,,2024-07-04,check-up,Dr. Williams,False,Incomplete
+APT0089,P0295,2024-03-16,cleaning,Dr. Williams,False,Complete
+APT0090,P0336,2024-09-25,check-up,Dr. Ahmed,False,Complete
+APT0091,P0357,2024-07-20,consultation,Dr. Ahmed,False,Complete
+APT0092,P0063,2024-06-26,check-up,Dr. Williams,True,Complete
+APT0093,P0227,2024-08-26,consultation,Dr. Williams,,Incomplete
+APT0094,P0381,2024-12-02,consultation,Dr. Williams,True,Complete
+APT0095,P0327,2024-04-17,consultation,Dr. Williams,False,Complete
+APT0096,P0040,2024-10-05,filling,Dr. Patel,True,Complete
+APT0097,P0277,2024-02-01,check-up,Dr. Patel,False,Complete
+APT0098,P0079,2024-10-02,extraction,Dr. Ahmed,False,Complete
+APT0099,P0278,2024-06-30,cleaning,Dr. Ahmed,False,Complete
+APT0100,P0200,2024-12-18,check-up,,False,Incomplete
+APT0101,P0181,2024-04-25,cleaning,Dr. Williams,False,Complete
+APT0102,P0140,2024-06-18,consultation,Dr. Ahmed,False,Complete
+APT0103,P0348,2024-11-06,cleaning,Dr. Patel,,Incomplete
+APT0104,P0319,2024-07-27,check-up,Dr. Williams,True,Complete
+APT0105,P0220,2024-02-22,consultation,Dr. Patel,True,Complete
+APT0106,P0168,2024-03-23,consultation,Dr. Nguyen,True,Complete
+APT0107,P0195,2024-04-18,cleaning,Dr. Nguyen,False,Complete
+APT0108,P0384,2024-07-29,check-up,Dr. Nguyen,False,Complete
+APT0109,P0400,2024-05-09,check-up,Dr. Ahmed,False,Complete
+APT0110,P0011,2024-08-30,check-up,Dr. Patel,True,Complete
+APT0111,P0059,2024-08-07,extraction,Dr. Williams,True,Complete
+APT0112,P0086,2024-08-24,check-up,Dr. Patel,True,Complete
+APT0113,P0014,2024-12-27,filling,,False,Incomplete
+APT0114,P0367,2024-03-17,check-up,,False,Incomplete
+APT0115,P0396,2024-04-27,check-up,,True,Incomplete
+APT0116,P0220,2024-09-14,cleaning,Dr. Ahmed,True,Complete
+APT0117,,2024-06-12,consultation,Dr. Ahmed,False,Incomplete
+APT0118,P0326,2024-12-13,consultation,Dr. Patel,False,Complete
+APT0119,P0268,2024-06-30,filling,,,Incomplete
+APT0120,P0375,2024-08-18,filling,Dr. Nguyen,False,Complete
+APT0121,P0045,2024-04-18,consultation,Dr. Patel,,Incomplete
+APT0122,P0343,2024-05-27,filling,Dr. Ahmed,,Incomplete
+APT0123,P0094,2024-07-08,extraction,Dr. Nguyen,True,Complete
+APT0124,P0306,2024-09-30,filling,,True,Incomplete
+APT0125,P0098,2024-02-02,extraction,Dr. Williams,,Incomplete
+APT0126,P0124,2024-09-25,consultation,Dr. Williams,,Incomplete
+APT0127,P0048,2024-04-24,extraction,Dr. Williams,False,Complete
+APT0128,P0298,2024-05-23,consultation,,True,Incomplete
+APT0129,P0382,2024-08-02,filling,Dr. Nguyen,,Incomplete
+APT0130,P0129,2024-03-30,check-up,Dr. Patel,True,Complete
+APT0131,P0275,2024-03-18,extraction,Dr. Patel,False,Complete
+APT0132,P0142,2024-10-08,consultation,,True,Incomplete
+APT0133,P0100,2024-04-25,extraction,Dr. Nguyen,True,Complete
+APT0134,P0363,2024-07-27,check-up,Dr. Nguyen,True,Complete
+APT0135,P0284,2024-04-23,check-up,Dr. Williams,False,Complete
+APT0136,P0294,2024-04-20,consultation,Dr. Williams,,Incomplete
+APT0137,P0027,2024-04-08,consultation,Dr. Ahmed,False,Complete
+APT0138,P0038,2024-08-12,check-up,Dr. Patel,True,Complete
+APT0139,P0156,2024-02-02,extraction,Dr. Ahmed,False,Complete
+APT0140,P0317,2024-03-28,consultation,Dr. Williams,,Incomplete
+APT0141,P0153,2024-12-01,cleaning,Dr. Nguyen,True,Complete
+APT0142,P0379,2024-02-08,extraction,Dr. Patel,True,Complete
+APT0143,P0081,2024-04-02,extraction,,False,Incomplete
+APT0144,P0210,2024-06-24,consultation,Dr. Nguyen,True,Complete
+APT0145,P0362,2024-04-19,consultation,Dr. Ahmed,False,Complete
+APT0146,P0321,2024-08-17,extraction,Dr. Williams,False,Complete
+APT0147,P0332,2024-02-27,filling,Dr. Patel,False,Complete
+APT0148,P0158,2024-08-19,filling,Dr. Williams,False,Complete
+APT0149,P0156,2024-09-29,cleaning,Dr. Nguyen,,Incomplete
+APT0150,P0307,2024-01-16,cleaning,Dr. Nguyen,True,Complete
+APT0151,,2024-03-30,check-up,Dr. Nguyen,True,Incomplete
+APT0152,P0090,2024-07-01,consultation,Dr. Williams,True,Complete
+APT0153,P0300,2024-06-18,consultation,Dr. Ahmed,,Incomplete
+APT0154,P0171,2024-05-04,check-up,Dr. Patel,True,Complete
+APT0155,P0254,2024-04-22,cleaning,,True,Incomplete
+APT0156,P0162,2024-04-08,filling,Dr. Ahmed,False,Complete
+APT0157,P0001,2024-09-13,consultation,Dr. Williams,True,Complete
+APT0158,P0186,2024-08-30,consultation,Dr. Williams,True,Complete
+APT0159,P0282,2024-02-21,filling,Dr. Williams,,Incomplete
+APT0160,P0323,2024-08-24,extraction,Dr. Patel,True,Complete
+APT0161,P0283,2024-06-07,check-up,Dr. Patel,False,Complete
+APT0162,P0061,2024-09-09,check-up,Dr. Williams,True,Complete
+APT0163,P0140,2024-06-10,consultation,Dr. Williams,False,Complete
+APT0164,P0075,2024-05-29,extraction,,True,Incomplete
+APT0165,P0142,2024-10-27,cleaning,Dr. Nguyen,True,Complete
+APT0166,P0145,2024-10-09,filling,,,Incomplete
+APT0167,P0229,2024-07-28,consultation,Dr. Nguyen,True,Complete
+APT0168,P0279,2024-05-27,consultation,Dr. Nguyen,False,Complete
+APT0169,P0123,2024-08-10,cleaning,Dr. Patel,False,Complete
+APT0170,,2024-10-17,consultation,Dr. Williams,False,Incomplete
+APT0171,P0334,2024-02-28,consultation,Dr. Ahmed,True,Complete
+APT0172,P0303,2024-05-08,check-up,Dr. Williams,False,Complete
+APT0173,P0234,2024-01-06,check-up,Dr. Williams,True,Complete
+APT0174,P0136,2024-05-11,cleaning,Dr. Ahmed,True,Complete
+APT0175,P0274,2024-05-27,filling,Dr. Williams,True,Complete
+APT0176,P0121,2024-09-03,filling,Dr. Patel,False,Complete
+APT0177,P0051,2024-10-23,check-up,Dr. Williams,True,Complete
+APT0178,P0015,2024-01-18,filling,Dr. Ahmed,True,Complete
+APT0179,P0221,2024-02-26,extraction,,False,Incomplete
+APT0180,P0093,2024-03-07,extraction,Dr. Ahmed,False,Complete
+APT0181,P0124,2024-07-12,check-up,Dr. Patel,,Incomplete
+APT0182,P0236,2024-04-09,check-up,Dr. Williams,True,Complete
+APT0183,P0081,2024-01-29,consultation,Dr. Nguyen,True,Complete
+APT0184,P0218,2024-09-25,filling,Dr. Williams,True,Complete
+APT0185,P0197,2024-11-28,consultation,Dr. Ahmed,False,Complete
+APT0186,P0184,2024-08-12,filling,Dr. Nguyen,True,Complete
+APT0187,P0338,2024-06-02,filling,Dr. Ahmed,True,Complete
+APT0188,P0382,2024-07-12,filling,Dr. Patel,True,Complete
+APT0189,P0098,2024-08-29,filling,Dr. Patel,False,Complete
+APT0190,P0331,2024-01-16,filling,Dr. Williams,True,Complete
+APT0191,P0375,2024-02-21,check-up,Dr. Nguyen,True,Complete
+APT0192,P0090,2024-03-18,check-up,,True,Incomplete
+APT0193,P0140,2024-11-19,extraction,Dr. Nguyen,,Incomplete
+APT0194,P0152,2024-10-18,filling,Dr. Ahmed,,Incomplete
+APT0195,P0073,2024-10-21,extraction,Dr. Williams,True,Complete
+APT0196,P0203,2024-01-06,filling,,False,Incomplete
+APT0197,P0345,2024-10-18,filling,,False,Incomplete
+APT0198,P0191,2024-02-11,extraction,Dr. Williams,True,Complete
+APT0199,P0288,2024-05-07,extraction,Dr. Ahmed,,Incomplete
+APT0200,P0155,2024-09-09,cleaning,Dr. Ahmed,True,Complete
+APT0201,,2024-01-15,filling,Dr. Williams,False,Incomplete
+APT0202,P0276,2024-02-22,cleaning,Dr. Williams,True,Complete
+APT0203,P0381,2024-09-28,cleaning,,True,Incomplete
+APT0204,P0336,2024-02-08,consultation,,False,Incomplete
+APT0205,P0144,2024-01-13,cleaning,Dr. Patel,,Incomplete
+APT0206,P0121,2024-11-28,cleaning,Dr. Ahmed,True,Complete
+APT0207,P0331,2024-05-19,check-up,Dr. Williams,True,Complete
+APT0208,P0063,2024-03-05,consultation,Dr. Ahmed,False,Complete
+APT0209,P0306,,check-up,Dr. Ahmed,True,Complete
+APT0210,P0065,2024-11-02,extraction,Dr. Ahmed,False,Complete
+APT0211,P0120,2024-05-08,check-up,,True,Incomplete
+APT0212,P0075,2024-02-20,filling,Dr. Patel,False,Complete
+APT0213,P0014,2024-02-21,check-up,Dr. Nguyen,False,Complete
+APT0214,P0009,2024-03-08,filling,Dr. Ahmed,True,Complete
+APT0215,P0270,2024-02-14,check-up,Dr. Williams,,Incomplete
+APT0216,P0263,2024-08-18,check-up,Dr. Williams,False,Complete
+APT0217,P0023,2024-10-10,consultation,Dr. Nguyen,,Incomplete
+APT0218,P0016,2024-01-24,consultation,Dr. Williams,False,Complete
+APT0219,P0252,2024-10-04,consultation,Dr. Ahmed,False,Complete
+APT0220,P0076,2024-01-26,check-up,Dr. Nguyen,True,Complete
+APT0221,P0306,2024-07-25,filling,Dr. Williams,False,Complete
+APT0222,P0360,2024-02-14,extraction,Dr. Williams,,Incomplete
+APT0223,P0212,2024-05-11,consultation,Dr. Williams,False,Complete
+APT0224,P0161,2024-06-15,filling,Dr. Nguyen,True,Complete
+APT0225,P0352,2024-12-25,consultation,Dr. Ahmed,False,Complete
+APT0226,P0048,2024-06-17,check-up,Dr. Nguyen,True,Complete
+APT0227,P0301,2024-04-26,filling,Dr. Ahmed,False,Complete
+APT0228,P0341,2024-01-13,cleaning,Dr. Ahmed,True,Complete
+APT0229,P0181,2024-02-10,consultation,Dr. Patel,True,Complete
+APT0230,P0115,2024-11-25,check-up,Dr. Nguyen,True,Complete
+APT0231,P0143,2024-08-11,extraction,Dr. Williams,True,Complete
+APT0232,P0337,2024-11-19,filling,Dr. Ahmed,True,Complete
+APT0233,P0391,2024-04-30,filling,Dr. Nguyen,True,Complete
+APT0234,P0074,2024-08-08,cleaning,Dr. Ahmed,True,Complete
+APT0235,P0016,2024-02-05,consultation,Dr. Patel,False,Complete
+APT0236,P0175,2024-03-01,cleaning,Dr. Nguyen,True,Complete
+APT0237,P0291,2024-08-20,check-up,Dr. Ahmed,True,Complete
+APT0238,P0317,2024-01-20,check-up,Dr. Nguyen,,Incomplete
+APT0239,P0249,2024-08-24,consultation,Dr. Williams,True,Complete
+APT0240,P0263,2024-02-14,cleaning,Dr. Williams,False,Complete
+APT0241,P0348,2024-08-18,consultation,,True,Incomplete
+APT0242,,2024-06-02,check-up,Dr. Ahmed,False,Incomplete
+APT0243,P0109,2024-10-25,check-up,Dr. Nguyen,True,Complete
+APT0244,P0004,2024-07-12,cleaning,Dr. Patel,True,Complete
+APT0245,P0361,2024-03-30,consultation,,True,Incomplete
+APT0246,P0380,2024-01-17,cleaning,Dr. Ahmed,,Incomplete
+APT0247,P0161,2024-08-12,cleaning,,False,Incomplete
+APT0248,P0214,2024-04-22,check-up,Dr. Williams,True,Complete
+APT0249,P0088,2024-11-08,consultation,Dr. Nguyen,False,Complete
+APT0250,P0055,2024-04-04,cleaning,,False,Incomplete
+APT0251,P0203,2024-12-05,filling,Dr. Nguyen,False,Complete
+APT0252,P0087,2024-01-30,consultation,Dr. Ahmed,False,Complete
+APT0253,P0179,2024-05-16,check-up,Dr. Patel,False,Complete
+APT0254,P0102,2024-03-08,check-up,Dr. Ahmed,True,Complete
+APT0255,P0322,2024-07-11,consultation,,,Incomplete
+APT0256,P0290,2024-09-07,filling,Dr. Nguyen,True,Complete
+APT0257,P0241,2024-06-21,filling,Dr. Nguyen,True,Complete
+APT0258,P0038,2024-04-30,consultation,Dr. Williams,True,Complete
+APT0259,P0147,2024-01-30,check-up,,False,Incomplete
+APT0260,P0284,2024-04-13,check-up,Dr. Williams,False,Complete
+APT0261,P0244,2024-07-14,check-up,Dr. Ahmed,,Incomplete
+APT0262,P0176,2024-10-05,check-up,,True,Incomplete
+APT0263,,2024-10-02,consultation,Dr. Williams,True,Incomplete
+APT0264,P0145,2024-05-30,cleaning,Dr. Nguyen,True,Complete
+APT0265,P0332,2024-05-10,check-up,Dr. Nguyen,False,Complete
+APT0266,P0198,2024-04-20,filling,,True,Incomplete
+APT0267,P0299,2024-09-15,check-up,Dr. Nguyen,True,Complete
+APT0268,P0358,2024-09-15,cleaning,Dr. Patel,False,Complete
+APT0269,P0193,2024-09-07,filling,Dr. Patel,False,Complete
+APT0270,P0217,2024-07-17,cleaning,Dr. Ahmed,True,Complete
+APT0271,P0110,2024-05-12,consultation,Dr. Patel,False,Complete
+APT0272,P0080,2024-01-30,filling,Dr. Ahmed,True,Complete
+APT0273,P0393,2024-08-28,check-up,,False,Incomplete
+APT0274,P0093,2024-11-19,extraction,Dr. Williams,True,Complete
+APT0275,P0347,2024-10-07,extraction,Dr. Williams,True,Complete
+APT0276,P0230,2024-03-31,extraction,Dr. Nguyen,,Incomplete
+APT0277,P0100,2024-05-23,consultation,Dr. Williams,True,Complete
+APT0278,P0258,2024-07-24,cleaning,Dr. Patel,False,Complete
+APT0279,P0071,2024-12-05,filling,Dr. Ahmed,,Incomplete
+APT0280,P0284,2024-12-30,check-up,,False,Incomplete
+APT0281,P0391,2024-03-03,filling,Dr. Williams,True,Complete
+APT0282,P0047,2024-02-21,extraction,Dr. Williams,True,Complete
+APT0283,P0213,2024-01-21,cleaning,,True,Incomplete
+APT0284,P0042,2024-05-25,extraction,Dr. Ahmed,True,Complete
+APT0285,P0366,2024-09-09,filling,Dr. Patel,True,Complete
+APT0286,,2024-12-23,consultation,Dr. Patel,,Incomplete
+APT0287,P0003,2024-12-18,check-up,Dr. Ahmed,True,Complete
+APT0288,P0077,2024-08-01,consultation,Dr. Williams,False,Complete
+APT0289,P0122,2024-04-27,check-up,Dr. Ahmed,False,Complete
+APT0290,P0319,2024-06-27,check-up,Dr. Ahmed,,Incomplete
+APT0291,P0009,2024-09-03,consultation,,False,Incomplete
+APT0292,P0150,2024-06-15,check-up,,True,Incomplete
+APT0293,P0214,2024-03-13,check-up,,True,Incomplete
+APT0294,P0270,2024-07-30,consultation,,True,Incomplete
+APT0295,P0241,2024-01-17,cleaning,Dr. Nguyen,True,Complete
+APT0296,P0183,2024-11-03,check-up,Dr. Nguyen,False,Complete
+APT0297,P0322,2024-02-10,filling,Dr. Patel,True,Complete
+APT0298,P0174,2024-11-12,extraction,Dr. Williams,,Incomplete
+APT0299,P0070,2024-01-25,consultation,Dr. Ahmed,True,Complete
+APT0300,P0103,2024-12-11,check-up,Dr. Nguyen,True,Complete
+APT0301,P0279,2024-07-03,filling,Dr. Ahmed,False,Complete
+APT0302,P0400,2024-01-19,filling,Dr. Nguyen,False,Complete
+APT0303,P0224,2024-12-12,cleaning,Dr. Williams,False,Complete
+APT0304,P0096,2024-07-12,consultation,Dr. Nguyen,True,Complete
+APT0305,P0373,2024-06-14,check-up,Dr. Williams,True,Complete
+APT0306,P0165,2024-02-09,check-up,Dr. Nguyen,True,Complete
+APT0307,P0309,2024-10-06,cleaning,Dr. Patel,,Incomplete
+APT0308,P0022,2024-10-10,cleaning,,False,Incomplete
+APT0309,P0030,2024-01-29,cleaning,Dr. Nguyen,True,Complete
+APT0310,P0074,2024-11-26,consultation,Dr. Ahmed,True,Complete
+APT0311,P0399,2024-09-08,cleaning,Dr. Nguyen,False,Complete
+APT0312,P0017,2024-08-23,check-up,Dr. Williams,True,Complete
+APT0313,P0391,2024-01-30,check-up,,True,Incomplete
+APT0314,P0333,2024-04-18,extraction,Dr. Ahmed,True,Complete
+APT0315,P0256,2024-07-20,cleaning,,False,Incomplete
+APT0316,P0134,2024-10-01,consultation,Dr. Patel,True,Complete
+APT0317,P0252,2024-03-18,check-up,Dr. Patel,False,Complete
+APT0318,P0366,2024-06-21,check-up,Dr. Nguyen,True,Complete
+APT0319,P0282,2024-07-30,filling,Dr. Nguyen,True,Complete
+APT0320,P0359,2024-09-05,extraction,Dr. Nguyen,False,Complete
+APT0321,P0103,2024-11-04,check-up,Dr. Patel,,Incomplete
+APT0322,,2024-08-03,cleaning,Dr. Williams,True,Incomplete
+APT0323,P0045,2024-01-26,filling,Dr. Williams,,Incomplete
+APT0324,P0394,2024-06-08,check-up,Dr. Patel,True,Complete
+APT0325,P0231,2024-06-30,consultation,Dr. Nguyen,True,Complete
+APT0326,P0400,2024-08-02,extraction,Dr. Patel,False,Complete
+APT0327,P0029,2024-11-19,check-up,,True,Incomplete
+APT0328,P0083,2024-05-05,extraction,Dr. Nguyen,True,Complete
+APT0329,P0129,2024-03-17,filling,Dr. Patel,True,Complete
+APT0330,P0048,2024-07-14,extraction,,True,Incomplete
+APT0331,P0320,2024-10-07,filling,,True,Incomplete
+APT0332,P0015,2024-02-01,check-up,,True,Incomplete
+APT0333,P0393,2024-08-10,cleaning,,True,Incomplete
+APT0334,P0322,2024-07-31,filling,Dr. Nguyen,,Incomplete
+APT0335,P0351,2024-06-06,filling,Dr. Williams,False,Complete
+APT0336,P0081,2024-06-20,cleaning,Dr. Williams,,Incomplete
+APT0337,P0311,2024-02-25,filling,Dr. Nguyen,True,Complete
+APT0338,P0067,2024-10-23,cleaning,,False,Incomplete
+APT0339,P0239,2024-02-17,filling,Dr. Williams,False,Complete
+APT0340,P0026,2024-04-22,cleaning,,False,Incomplete
+APT0341,P0082,2024-11-12,filling,,True,Incomplete
+APT0342,P0082,2024-07-13,consultation,Dr. Williams,,Incomplete
+APT0343,P0255,2024-01-09,check-up,Dr. Williams,,Incomplete
+APT0344,P0111,2024-08-15,cleaning,Dr. Ahmed,True,Complete
+APT0345,P0306,2024-12-09,consultation,Dr. Nguyen,True,Complete
+APT0346,P0221,2024-02-21,filling,Dr. Nguyen,False,Complete
+APT0347,P0206,2024-01-20,extraction,Dr. Nguyen,True,Complete
+APT0348,P0259,2024-06-24,filling,,False,Incomplete
+APT0349,P0050,2024-06-02,cleaning,Dr. Nguyen,True,Complete
+APT0350,P0102,2024-08-22,consultation,Dr. Williams,True,Complete
+APT0351,,2024-02-23,filling,Dr. Williams,,Incomplete
+APT0352,P0264,2024-02-24,filling,,True,Incomplete
+APT0353,P0316,2024-10-15,filling,,True,Incomplete
+APT0354,P0261,2024-07-26,consultation,,True,Incomplete
+APT0355,P0009,2024-05-23,filling,Dr. Ahmed,False,Complete
+APT0356,P0372,2024-12-05,check-up,,,Incomplete
+APT0357,P0336,2024-10-31,extraction,Dr. Ahmed,,Incomplete
+APT0358,P0323,2024-10-08,cleaning,Dr. Patel,False,Complete
+APT0359,,2024-03-05,check-up,Dr. Patel,True,Incomplete
+APT0360,P0215,2024-02-28,cleaning,Dr. Patel,False,Complete
+APT0361,P0314,2024-12-24,consultation,Dr. Ahmed,True,Complete
+APT0362,P0288,2024-05-06,consultation,,False,Incomplete
+APT0363,P0089,2024-06-28,filling,,True,Incomplete
+APT0364,P0370,2024-09-22,filling,,,Incomplete
+APT0365,P0127,2024-04-18,filling,Dr. Patel,True,Complete
+APT0366,P0361,2024-03-21,consultation,Dr. Nguyen,,Incomplete
+APT0367,P0370,2024-04-16,filling,Dr. Ahmed,False,Complete
+APT0368,P0203,2024-11-15,cleaning,Dr. Patel,True,Complete
+APT0369,,2024-04-26,check-up,Dr. Nguyen,,Incomplete
+APT0370,P0383,2024-07-05,extraction,Dr. Patel,True,Complete
+APT0371,P0357,2024-04-15,check-up,Dr. Ahmed,False,Complete
+APT0372,P0343,2024-12-18,consultation,Dr. Patel,False,Complete
+APT0373,P0212,2024-05-08,consultation,Dr. Ahmed,True,Complete
+APT0374,,2024-08-02,extraction,Dr. Williams,,Incomplete
+APT0375,P0103,2024-10-21,filling,Dr. Nguyen,True,Complete
+APT0376,P0394,2024-02-04,extraction,,True,Incomplete
+APT0377,P0090,2024-06-11,extraction,Dr. Ahmed,False,Complete
+APT0378,P0096,2024-12-31,filling,Dr. Ahmed,True,Complete
+APT0379,P0309,2024-02-11,filling,Dr. Nguyen,,Incomplete
+APT0380,P0279,2024-07-23,consultation,Dr. Patel,,Incomplete
+APT0381,P0058,2024-05-08,extraction,Dr. Williams,True,Complete
+APT0382,P0008,2024-10-14,filling,Dr. Nguyen,False,Complete
+APT0383,P0328,2024-12-15,cleaning,Dr. Williams,True,Complete
+APT0384,P0343,2024-02-06,extraction,Dr. Patel,,Incomplete
+APT0385,P0128,2024-01-03,filling,Dr. Williams,False,Complete
+APT0386,P0137,2024-04-13,filling,Dr. Nguyen,True,Complete
+APT0387,P0185,2024-09-26,extraction,Dr. Ahmed,False,Complete
+APT0388,P0082,2024-06-06,consultation,Dr. Nguyen,False,Complete
+APT0389,P0152,2024-05-23,extraction,Dr. Patel,True,Complete
+APT0390,P0233,2024-10-18,cleaning,Dr. Williams,,Incomplete
+APT0391,P0341,2024-11-17,extraction,Dr. Patel,False,Complete
+APT0392,P0271,2024-10-01,cleaning,Dr. Ahmed,False,Complete
+APT0393,P0281,2024-12-18,consultation,Dr. Patel,True,Complete
+APT0394,P0267,2024-06-21,check-up,Dr. Patel,,Incomplete
+APT0395,P0262,2024-06-22,check-up,Dr. Williams,True,Complete
+APT0396,P0234,2024-08-07,check-up,,,Incomplete
+APT0397,P0158,2024-10-08,check-up,Dr. Williams,True,Complete
+APT0398,P0382,2024-03-25,check-up,Dr. Ahmed,False,Complete
+APT0399,P0033,2024-07-30,check-up,Dr. Ahmed,,Incomplete
+APT0400,,2024-06-08,extraction,Dr. Patel,False,Incomplete
+APT0401,P0196,2024-06-23,cleaning,Dr. Williams,False,Complete
+APT0402,P0339,2024-12-06,check-up,Dr. Nguyen,False,Complete
+APT0403,P0276,2024-06-02,consultation,Dr. Patel,False,Complete
+APT0404,P0388,2024-01-09,filling,Dr. Williams,False,Complete
+APT0405,P0118,2024-04-06,consultation,Dr. Nguyen,True,Complete
+APT0406,P0372,2024-10-24,check-up,Dr. Ahmed,False,Complete
+APT0407,P0009,2024-04-03,extraction,Dr. Ahmed,False,Complete
+APT0408,P0229,2024-08-21,check-up,Dr. Patel,True,Complete
+APT0409,P0120,2024-07-29,extraction,Dr. Ahmed,True,Complete
+APT0410,P0149,2024-03-31,filling,,True,Incomplete
+APT0411,P0074,2024-09-14,consultation,Dr. Patel,False,Complete
+APT0412,P0032,2024-08-05,extraction,Dr. Williams,,Incomplete
+APT0413,,2024-05-14,cleaning,,True,Incomplete
+APT0414,P0210,2024-02-27,filling,Dr. Williams,True,Complete
+APT0415,P0243,2024-04-03,extraction,Dr. Nguyen,True,Complete
+APT0416,P0030,2024-08-06,cleaning,Dr. Williams,True,Complete
+APT0417,P0131,2024-03-20,filling,Dr. Ahmed,,Incomplete
+APT0418,P0048,2024-07-27,extraction,Dr. Ahmed,True,Complete
+APT0419,P0310,2024-08-22,check-up,Dr. Ahmed,False,Complete
+APT0420,P0301,2024-10-08,extraction,Dr. Williams,False,Complete
+APT0421,P0171,2024-04-28,check-up,Dr. Patel,False,Complete
+APT0422,P0061,2024-10-18,consultation,Dr. Patel,False,Complete
+APT0423,P0123,2024-08-02,filling,Dr. Nguyen,False,Complete
+APT0424,P0333,2024-05-19,filling,Dr. Nguyen,True,Complete
+APT0425,P0255,2024-06-30,check-up,Dr. Williams,True,Complete
+APT0426,P0190,2024-05-01,cleaning,Dr. Ahmed,False,Complete
+APT0427,P0009,2024-04-11,cleaning,Dr. Nguyen,True,Complete
+APT0428,P0118,2024-05-27,extraction,Dr. Williams,True,Complete
+APT0429,P0251,2024-06-30,consultation,Dr. Williams,True,Complete
+APT0430,P0181,2024-03-06,check-up,,,Incomplete
+APT0431,P0278,2024-09-06,check-up,,True,Incomplete
+APT0432,P0039,2024-02-08,check-up,Dr. Ahmed,False,Complete
+APT0433,P0323,2024-03-30,check-up,Dr. Patel,True,Complete
+APT0434,P0234,2024-05-25,check-up,,,Incomplete
+APT0435,P0009,2024-01-03,cleaning,Dr. Ahmed,True,Complete
+APT0436,P0141,2024-07-27,filling,Dr. Ahmed,False,Complete
+APT0437,P0092,2024-02-11,check-up,,True,Incomplete
+APT0438,P0318,2024-07-23,filling,Dr. Nguyen,True,Complete
+APT0439,P0041,2024-05-25,cleaning,Dr. Williams,False,Complete
+APT0440,P0116,2024-04-26,check-up,Dr. Ahmed,False,Complete
+APT0441,P0194,2024-08-02,consultation,Dr. Ahmed,True,Complete
+APT0442,P0043,2024-07-13,cleaning,Dr. Nguyen,False,Complete
+APT0443,P0022,2024-03-30,extraction,,,Incomplete
+APT0444,P0039,2024-09-23,filling,,True,Incomplete
+APT0445,P0162,2024-01-07,extraction,,True,Incomplete
+APT0446,P0365,2024-11-16,cleaning,Dr. Ahmed,True,Complete
+APT0447,P0124,2024-08-08,cleaning,,True,Incomplete
+APT0448,P0379,2024-02-24,check-up,,True,Incomplete
+APT0449,P0224,2024-03-30,check-up,Dr. Nguyen,False,Complete
+APT0450,P0168,2024-01-12,filling,Dr. Williams,,Incomplete
+APT0451,P0284,2024-01-13,cleaning,Dr. Williams,True,Complete
+APT0452,P0339,2024-05-27,check-up,,True,Incomplete
+APT0453,P0366,2024-01-29,check-up,Dr. Nguyen,True,Complete
+APT0454,P0325,2024-02-29,cleaning,Dr. Nguyen,True,Complete
+APT0455,P0003,2024-01-26,filling,Dr. Williams,True,Complete
+APT0456,P0053,2024-02-21,check-up,Dr. Patel,False,Complete
+APT0457,P0285,2024-07-18,cleaning,Dr. Ahmed,True,Complete
+APT0458,P0284,2024-02-05,filling,Dr. Williams,True,Complete
+APT0459,P0199,2024-10-30,check-up,,False,Incomplete
+APT0460,P0087,2024-09-23,cleaning,Dr. Patel,True,Complete
+APT0461,P0138,2024-07-11,check-up,Dr. Ahmed,True,Complete
+APT0462,P0216,2024-04-26,consultation,Dr. Ahmed,True,Complete
+APT0463,P0127,2024-10-08,consultation,,False,Incomplete
+APT0464,P0070,2024-04-28,check-up,Dr. Williams,True,Complete
+APT0465,P0195,2024-11-09,filling,Dr. Williams,True,Complete
+APT0466,P0334,2024-08-19,check-up,Dr. Nguyen,True,Complete
+APT0467,P0356,2024-03-18,consultation,Dr. Nguyen,True,Complete
+APT0468,P0164,2024-04-23,consultation,,False,Incomplete
+APT0469,P0144,2024-11-14,cleaning,Dr. Nguyen,False,Complete
+APT0470,P0103,2024-08-18,extraction,,True,Incomplete
+APT0471,P0237,2024-01-26,extraction,Dr. Williams,True,Complete
+APT0472,P0036,2024-11-15,cleaning,Dr. Williams,True,Complete
+APT0473,P0124,2024-04-08,check-up,Dr. Williams,False,Complete
+APT0474,P0307,2024-07-05,cleaning,,False,Incomplete
+APT0475,P0185,2024-09-30,check-up,Dr. Ahmed,False,Complete
+APT0476,P0182,2024-03-05,check-up,,False,Incomplete
+APT0477,P0170,2024-06-30,cleaning,Dr. Ahmed,True,Complete
+APT0478,P0114,2024-07-17,consultation,,False,Incomplete
+APT0479,P0201,2024-06-29,consultation,Dr. Patel,True,Complete
+APT0480,P0248,2024-02-10,filling,Dr. Williams,False,Complete
+APT0481,P0374,2024-02-24,cleaning,Dr. Nguyen,True,Complete
+APT0482,P0106,2024-07-21,consultation,Dr. Nguyen,,Incomplete
+APT0483,P0370,2024-09-28,consultation,Dr. Nguyen,False,Complete
+APT0484,P0364,2024-02-14,check-up,Dr. Nguyen,False,Complete
+APT0485,P0085,2024-12-28,extraction,,True,Incomplete
+APT0486,P0170,2024-08-05,cleaning,Dr. Williams,False,Complete
+APT0487,P0323,2024-03-12,extraction,Dr. Williams,False,Complete
+APT0488,,2024-08-27,extraction,Dr. Williams,False,Incomplete
+APT0489,P0361,2024-03-24,extraction,Dr. Nguyen,False,Complete
+APT0490,P0275,2024-03-13,cleaning,Dr. Nguyen,False,Complete
+APT0491,P0135,2024-09-18,consultation,,True,Incomplete
+APT0492,P0313,2024-06-01,check-up,Dr. Nguyen,True,Complete
+APT0493,P0317,2024-03-08,filling,,False,Incomplete
+APT0494,P0161,2024-02-15,extraction,Dr. Nguyen,False,Complete
+APT0495,P0356,2024-02-24,consultation,Dr. Williams,False,Complete
+APT0496,P0295,2024-05-29,cleaning,Dr. Patel,,Incomplete
+APT0497,P0356,2024-12-24,extraction,,True,Incomplete
+APT0498,P0072,2024-03-13,filling,Dr. Williams,True,Complete
+APT0499,P0005,2024-07-07,check-up,Dr. Patel,False,Complete
+APT0500,P0259,2024-09-11,consultation,Dr. Williams,,Incomplete
